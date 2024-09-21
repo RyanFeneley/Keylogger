@@ -1,18 +1,8 @@
 /**
- * Keylogger (Educational Purpose Only)
+ * Keylogger
  *
- * Author: Your Name
- * Date: September 21, 2024
- *
- * Description: 
- * This simple keylogger logs keystrokes to a text file. It is for educational and ethical purposes only.
- * Use this program in accordance with all legal and ethical guidelines.
- *
- * Disclaimer: Unauthorized access or usage of this software is illegal and punishable by law. 
- * Use only on systems where you have explicit permission.
- *
- * Features:
- * - Logs keypresses to a file.
+ * Author: Ryan Feneley
+ * Date: September 2024
  */
 
  import java.io.FileWriter;
